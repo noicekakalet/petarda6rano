@@ -72,7 +72,7 @@ Ten projekt jest dostępny na licencji MIT. Zobacz plik [LICENSE](LICENSE) aby u
 
 ## 👥 Autorzy
 
-- [Twój Nick] - Główny programista
+- ggaappa - Główny programista
 
 ## 🙏 Podziękowania
 
