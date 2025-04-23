@@ -28,7 +28,7 @@ Cwelbert Shop to nowoczesna aplikacja e-commerce stworzona w React z wykorzystan
 
 1. Sklonuj repozytorium:
 ```bash
-git clone https://github.com/twoj-username/cwelbert-shop.git
+git clone https://github.com/noicekakalet/cwelbert-shop.git
 ```
 
 2. Przejdź do katalogu projektu:
@@ -46,7 +46,7 @@ npm install
 npm start
 ```
 
-Aplikacja będzie dostępna pod adresem: [http://localhost:3000](http://localhost:3000)
+Aplikacja będzie dostępna pod adresem: [http://localhost:5000](http://localhost:5000)
 
 ## 📦 Budowanie aplikacji
 
