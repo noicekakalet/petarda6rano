@@ -11,7 +11,7 @@ import {
 } from '@mui/material';
 
 const Cart = () => {
-  // Przykładowe dane koszyka
+  
   const cartItems = [
     { id: 1, name: 'Petarda Mega Huk', price: 19.99, quantity: 2 },
     { id: 2, name: 'Gotowiec Premium', price: 29.99, quantity: 1 },
