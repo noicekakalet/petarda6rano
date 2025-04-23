@@ -13,7 +13,7 @@ import {
   Chip,
 } from '@mui/material';
 
-// Importujemy obrazy statyczne
+
 import petardaImage from '../assets/images/petarda.jpg';
 import gotowiecImage from '../assets/images/gotowiec.jpg';
 import turboImage from '../assets/images/turbo.jpg';
